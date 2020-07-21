@@ -1,7 +1,7 @@
 ## Welcome to flyingImer.github.io
 
 ### Support or Contact
-Having trouble with the product? Feel free to create an issue 😃
+Having trouble with the product? Feel free to [create an issue here](https://github.com/flyingImer/flyingImer.github.io/issues/new/choose). 😃
 
 <details>
   <summary>Privacy Policy</summary>
