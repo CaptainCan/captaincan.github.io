@@ -3,8 +3,10 @@
 ### Support or Contact
 Having trouble with the product? Feel free to [create an issue here](https://github.com/flyingImer/flyingImer.github.io/issues/new/choose). 😃
 
+### Privacy Policy
+
 <details>
-  <summary>Privacy Policy</summary>
+  <summary>read more</summary>
   
   **Privacy Policy**
 
